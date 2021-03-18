@@ -1,0 +1,2 @@
+# idiris
+A discord bot.
