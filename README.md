@@ -1,7 +1,7 @@
 # 🤖 idiris
 A discord bot.
 
-[![Run on Repl.it](https://repl.it/badge/github/tou99/idiris)](https://repl.it/github/tou99/idiris)
+[![Run on Repl.it](https://repl.it/badge/github/tou99/idiris)](https://repl.it/github/iam-t-adam/idiris)
 
 
 ### Info
