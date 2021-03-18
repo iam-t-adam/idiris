@@ -10,3 +10,4 @@ A discord bot.
 - Language: `node.js`
 - Packages: `dbd.express^1.0.1; dbd.js^2.2.6`
 - Packager: `npm`
+- We also have our idiris bot! Invite him [here](https://discord.com/api/oauth2/authorize?client_id=822027679204638721&permissions=8&scope=bot)
