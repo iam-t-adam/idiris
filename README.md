@@ -1,6 +1,9 @@
 # 🤖 idiris
 A discord bot.
 
+[![Run on Repl.it](https://repl.it/badge/github/tou99/idiris)](https://repl.it/github/tou99/idiris)
+
+
 ### Info
 - Onwer: `whgdyمرحبا#0001`
 - Prefix: `i!`
